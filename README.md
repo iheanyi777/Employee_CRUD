@@ -1,15 +1,12 @@
-**Employee CRUD Application (Python)
-**
+**Employee CRUD Application (Python)**
 
-**Overview
-**
+**Overview**
 
 A basic Employee Management backend project built with Python and PostgreSQL. This project demonstrates how to connect to a database, create tables, and structure employee data using Python.
 
 
 
-**Key Features
-**
+**Key Features**
 
 PostgreSQL database connection using Python
 
@@ -21,8 +18,7 @@ External configuration for database credentials
 
 
 
-**Tech Stack
-**
+**Tech Stack**
 
 Python
 
@@ -32,15 +28,13 @@ psycopg2
 
 
 
-**What I Learned
-**
+**What I Learned**
 
 Connecting Python applications to a relational database, Writing SQL queries from Python, Structuring backend database logic, Managing configuration files securely
 
 
 
-**How to Run
-**
+**How to Run**
 
 pip install psycopg2
 
